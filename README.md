@@ -1,4 +1,4 @@
-# **Gustavo Cunha** Junior
+# **Gustavo Cunha**
 
 The main objective of this personal portfolio is to demonstrate my skills in solving Data Science business challenges.
 
