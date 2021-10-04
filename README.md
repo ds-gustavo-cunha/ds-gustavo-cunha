@@ -46,7 +46,7 @@ In the short term, I want to get a junior data scientist job.
 ## Data Science Projects:
 
 ### [Health Insurance Cross-Sell]( https://github.com/ds-gustavo-cunha/pa004_health_insurance_cross_sell )
-Insurance All is a health insurance company and its products team is analyzing the possibility of offering a new product, automobile insurance, for its health insurance clients. Similar to its health insurance, customers of this new insurance plan would have to pay an annual plan to be insured by Insurance All in case of an eventual car accident or damage. In this project, I developed a Machine Learning algorithm that increases the number of contacted interested customers by **1,316** and **2,259** for 20,000 and 40,000 sales teams contacts, increasing the company revenue by **U$ 131,600** and **U$ 235,900** respectively.
+Insurance All is a health insurance company and its products team is analyzing the possibility of offering a new product, automobile insurance, for its health insurance clients. Similar to its health insurance, customers of this new insurance plan would have to pay an annual plan to be insured by Insurance All in case of an eventual car accident or damage. In this project, I developed a Machine Learning algorithm that increases the number of contacted interested customers by 1,316 and 2,259 for 20,000 and 40,000 sales teams contacts so that the estimated revenue increases are respectively U$ 131,600 and U$ 235,900.
 
 ## Data Analysis - Insight Projets
 
