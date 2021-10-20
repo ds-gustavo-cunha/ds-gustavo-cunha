@@ -34,9 +34,9 @@ In the short term, I want to get a junior data scientist job.
 
 **Development:** Git, Linux. 
 
-**Machine Learning Modeling:** Classification, Regression. 
+**Machine Learning Modeling:** Classification, Regression, Time Series.
 
-**Machine Learning Deployment:** Heroku and Google Sheets.  
+**Machine Learning Deployment:** Heroku, Google Sheets, Telegram, Streamlit.  
 
 **Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
@@ -49,7 +49,7 @@ In the short term, I want to get a junior data scientist job.
 Insurance All is a health insurance company and its products team is analyzing the possibility of offering a new product, automobile insurance, for its health insurance clients. Similar to its health insurance, customers of this new insurance plan would have to pay an annual plan to be insured by Insurance All in case of an eventual car accident or damage. In this project, I developed a Machine Learning algorithm that increases the number of contacted interested customers by 1,316 and 2,259 for 20,000 and 40,000 sales teams contacts so that the estimated revenue increases are respectively U$ 131,600 and U$ 225,900.
 
 ### [Rossmann Store Sales]( https://github.com/ds-gustavo-cunha/Rossmann-Store-Sales )
-Rossmann is a company that operates over 3,000 drug stores in 7 European countries. Its products range includes up to 21,700 items and can vary depending on the size of the shop and the location. Rossmann store managers need daily sales predictions for up to six weeks in advance so as to plan infrastructure investments in their stores (will next six weeks sales be high enough to balance infrastructure investment?). The final solution for this problem a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. Besides, ff the final user wants more detailed information about this six weeks prediction, he (she) could get further details on a data App, with an interactive chart, on sales prediction over these six weeks. Furthermore, on this data App, the user can also read the entire project overview to understand further how this prediction is made.
+Rossmann is a company that operates over 3,000 drug stores in 7 European countries. Its products range includes up to 21,700 items and can vary depending on the size of the shop and the location. Rossmann store managers need daily sales predictions for up to six weeks in advance so as to plan infrastructure investments in their stores (will next six weeks sales be high enough to balance infrastructure investment?). The final solution for this problem is a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. Besides, if the final user wants more detailed information about this six weeks prediction, he (she) could get further details on a data App, with an interactive chart, on sales prediction over these six weeks. Furthermore, on this data App, the user can also read the entire project overview to understand further how this prediction is made.
 
 
 ## Data Analysis - Insight Projets
