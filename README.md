@@ -38,7 +38,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 * Finally, since June 2021, he's been studying computer science and data science to become a data scientist soon.
 
 <br>
-<strong>What are the analytical tools he uses in his projects?</strong> ⚒
+<strong>What are the analytical tools he uses in his projects?</strong> 🛠
 
 * **Data Collect and Storage:** SQL, SQLite, MySQL, Postgres.
 
