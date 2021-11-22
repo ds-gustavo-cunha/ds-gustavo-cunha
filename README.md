@@ -16,7 +16,6 @@ Hello! 🙂
 First of all, thanks for reading this 😊. On the following lines, I will try to give you a few 'bytes' of me.
 
 <br>
-<br>
 <strong>Who is Gustavo?</strong> 😬
 
 * He is a self-disciplined, resilient, and ethical person. 
@@ -24,7 +23,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 * He has a military background and has a curious and active mind.
 
 * Recently, he fell in love with data science and, since then, he's been focusing his energy and time on learning skills required to become a data scientist.
-<br>
+
 <br>
 <strong>What are his achievements and his previous experiences?</strong> 🏆
 
@@ -37,6 +36,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 * He passed the academic and the physical exams of the Brazilian Federal Police and the Brazilian Federal Highway Police admission processes in 2021 (both of them with more than 300,000 candidates).
 
 * Finally, since June 2021, he's been studying computer science and data science to become a data scientist soon.
+
 <br>
 <strong>What are the analytical tools he uses in his projects?</strong> ⚒
 
