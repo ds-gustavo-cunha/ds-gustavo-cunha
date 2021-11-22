@@ -10,38 +10,52 @@ The main objective of this personal portfolio is to demonstrate my skills in sol
 <sub>*Data Scientist student*</sub>
 <br>
 <br>
-Who am I? 
-<br>I am a self-disciplined, resilient, and ethical person.
-<br>I have a military background and has a curious and active mind.
-<br>Recently, I fell in love with data science and, since then, I've been focusing my energy and time on learning skills required to become a data scientist.
+<br>
+Hello! 🙂
+
+First of all, thanks for reading this 😊. On the following lines, I will try to give you a few 'bytes' of me.
+
 <br>
 <br>
-What are my personal life achievements and previous experiences?
-<br>I was the first rank at the Brazilian Naval Academy admission process in 2011.
-<br>I joined the Brazilian Naval Academy as an aspirant in 2012 and quit the Brazilian Navy as a second lieutenant in 2017. <br>As a naval military, I made missions to many states in Brazil and 16 countries (South America, Africa, Europe, North America, Central America).
-<br>I passed the academic and the physical exams of the Brazilian Federal Police and the Brazilian Federal Highway Police admission processes in 2021 (both of them with more than 300,000 candidates).
+<strong>Who is Gustavo?</strong> 😬
+
+* He is a self-disciplined, resilient, and ethical person. 
+
+* He has a military background and has a curious and active mind.
+
+* Recently, he fell in love with data science and, since then, he's been focusing his energy and time on learning skills required to become a data scientist.
 <br>
 <br>
-In the short term, I want to get a junior data scientist job.
+<strong>What are his achievements and his previous experiences?</strong> 🏆
+
+* He was the first rank at the Brazilian Naval Academy admission process in 2011.
+
+* He joined the Brazilian Naval Academy as an aspirant in 2012 and quit the Brazilian Navy as a second lieutenant in 2017. These five years (and a few months) were very intense and challenging for him, especially regarding military routine and academic exams. However, due to all of these challenges he had to overcome, these years were undoubtedly very maturing for him. As a naval military, he also had the opportunity to embark on Brazilian naval vessels that made missions to many states in Brazil and 16 countries (South America, Africa, Europe, North America, Central America).
+
+* In 2017, he decided to quit the Navy and took a break, investing his time and energy on one personal project. 
+
+* He passed the academic and the physical exams of the Brazilian Federal Police and the Brazilian Federal Highway Police admission processes in 2021 (both of them with more than 300,000 candidates).
+
+* Finally, since June 2021, he's been studying computer science and data science to become a data scientist soon.
 <br>
+<strong>What are the analytical tools he uses in his projects?</strong> ⚒
+
+* **Data Collect and Storage:** SQL, SQLite, MySQL, Postgres.
+
+* **Data Processing and Analysis:** Python.
+
+* **Development:** Git, Linux.
+
+* **Machine Learning Modeling:** Classification, Regression, Time Series, Clustering.
+
+* **Machine Learning Deployment:** Heroku, AWS, Google Sheets, Telegram, Streamlit.
+
+* **Data Visualization:** Metabase.
 <br>
+<strong>Links:</strong>
 
-**ANALYTICAL TOOLS:**
-
-**Data Collect and Storage:** SQL, SQLite, MySQL, Postgres.
-
-**Data Processing and Analysis:** Python.
-
-**Development:** Git, Linux. 
-
-**Machine Learning Modeling:** Classification, Regression, Time Series, Clustering.
-
-**Machine Learning Deployment:** Heroku, AWS, Google Sheets, Telegram, Streamlit.  
-
-**Data Visualization:** Metabase.
-
-**Links:**
 * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
+
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gcunhaj@gmail.com)](mailto:gcunhaj@gmail.com)
 
 
