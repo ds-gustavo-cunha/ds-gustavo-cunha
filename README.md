@@ -46,7 +46,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 
 * **Development:** Git, Linux.
 
-* **Machine Learning Modeling:** Classification, Regression, Time Series, Clustering.
+* **Machine Learning Modeling:** Classification, Regression, Clustering.
 
 * **APIs:** Flask, FastAPI.
 
