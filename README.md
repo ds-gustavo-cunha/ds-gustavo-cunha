@@ -1,5 +1,10 @@
 # **Gustavo Cunha**
 
+
+*I built a portfolio webpage where I could display my projects in a more straightforward and personal way. You can check it on this [link]( https://ds-gustavo-cunha.github.io/projects-portfolio/ ). However, you can also check a brief summary below if you prefer.* 😉
+#
+
+
 The main objective of this personal portfolio is to demonstrate my skills in solving Data Science business challenges.
 
 <p align='center'>
