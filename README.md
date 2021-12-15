@@ -55,7 +55,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 
 * **APIs:** Flask, FastAPI.
 
-* **Machine Learning Deployment:** Heroku, AWS, Docker, Google Sheets, Telegram.
+* **Machine Learning Deployment:** Heroku, AWS, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
 
 * **Data Visualization:** Metabase, Power BI, Streamlit.
 <br>
