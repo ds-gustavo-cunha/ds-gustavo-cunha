@@ -67,6 +67,7 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gcunhaj@gmail.com)
 
+
 ## Data Science Projects:
 
 ### [Fraud Detection]( https://github.com/ds-gustavo-cunha/Fraud-Detection/tree/master/fraud_detection )
@@ -80,3 +81,9 @@ Rossmann is a company that operates over 3,000 drug stores in 7 European countri
 
 ### [Health Insurance Cross-Sell]( https://github.com/ds-gustavo-cunha/Health-Insurance-Cross-Sell/tree/master/health_insurance_cross_sell )
 Insurance All is a health insurance company and its products team is analyzing the possibility of offering a new product, automobile insurance, for its health insurance clients. Similar to its health insurance, customers of this new insurance plan would have to pay an annual plan to be insured by Insurance All in case of an eventual car accident or damage. In this project, I developed a Machine Learning algorithm that increases the number of contacted interested customers by 1,316 and 2,259 for 20,000 and 40,000 sales teams contacts so that the estimated revenue increases are respectively U$ 131,600 and U$ 225,900.
+
+
+## Medium Posts:
+
+### [Visual intelligence techniques applied on data science projects](https://medium.com/@ds-gustavo-cunha/visual-intelligence-techniques-applied-on-data-science-projects-2ed1423a1161)
+Applying techniques of “Visual Intelligence: Sharpen Your Perception, Change our Life” by Amy E. Herman on Data Science Projects.
