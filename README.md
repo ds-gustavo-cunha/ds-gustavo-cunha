@@ -61,10 +61,11 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 <br>
 <strong>Links:</strong>
 
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
+* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
 
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gcunhaj@gmail.com)](mailto:gcunhaj@gmail.com)
+* [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
 
+* [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gcunhaj@gmail.com)
 
 ## Data Science Projects:
 
