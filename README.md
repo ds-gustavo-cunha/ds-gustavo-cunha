@@ -51,11 +51,11 @@ First of all, thanks for reading this 😊. On the following lines, I will try t
 
 * **Development:** Git, Linux.
 
-* **Machine Learning Modeling:** Classification, Regression, Clustering.
+* **Machine Learning and Deep Learning Modeling:** Classification, Regression, Clustering, NLP (Sentiment Analysis & Text Summarization).
 
 * **APIs:** Flask, FastAPI.
 
-* **Machine Learning Deployment:** Heroku, AWS, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
+* **Machine Learning Deployment:** AWS, Google Cloud Platform, Heroku, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
 
 * **Data Visualization:** Metabase, Power BI, Streamlit.
 <br>
