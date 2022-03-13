@@ -87,5 +87,8 @@ Insurance All is a health insurance company and its products team is analyzing t
 
 ## Medium Posts:
 
+### [Applying the Lean Startup mindset to data science projects](https://medium.com/@ds-gustavo-cunha/applying-the-lean-startup-mindset-to-data-science-projects-fdcd3ce44d10)
+Applying some core concepts of “The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses” by Eric Ries to make data science projects more effective.
+
 ### [Visual intelligence techniques applied on data science projects](https://medium.com/@ds-gustavo-cunha/visual-intelligence-techniques-applied-on-data-science-projects-2ed1423a1161)
 Applying techniques of “Visual Intelligence: Sharpen Your Perception, Change our Life” by Amy E. Herman on Data Science Projects.
