@@ -16,8 +16,6 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 <br>
 <br>
 <br>
-
-<br>
 <strong>Who am I</strong> 😬
 
 * I am a **self-disciplined**, **resilient**, and **ethical** person.
