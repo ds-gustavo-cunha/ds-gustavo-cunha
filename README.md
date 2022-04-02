@@ -54,6 +54,9 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 
 ## Data Science Projects:
 
+### [Bottomline]( https://github.com/ds-gustavo-cunha/Bottomline-Project )
+We all live in a society that produces an overwhelming amount of information daily. Information per se is valuable but it's often very challenging to spotlight the essential part of it - the bottomline, so to say. This mental-filtering process can be very time consuming and also confusing sometimes. With our technical solution, we provide an automated service that identifies the text's most relevant sentences so as to summarize the text. Additionally, the service provides the general sentiment (positive, neutral or negative) of the text. In other words, the final product will give the user a general idea about the text content as well as its most prominent sentiment.
+
 ### [Fraud Detection]( https://github.com/ds-gustavo-cunha/Fraud-Detection/tree/master/fraud_detection )
 Blocker Fraud Company is a company specialized in the detection of fraud in financial transactions made through mobile devices. The company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows: (1) the company will receive 25% of each transaction value that was correctly detected as fraud; (2) The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate; (3) The company will return 100% of each transaction value that was detected as legitimate despite being a fraud. The final solution includes a Power BI reporting dashboard with answers to business questions as well as a Docker container with API implementation, made with FasAPI and PySpark, and a MongoDB database with APIs requests saved for future analyses.
 
