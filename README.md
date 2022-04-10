@@ -26,7 +26,7 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 
 
 <br>
-<strong>What are the analytical tools I use in his projects?</strong> 🛠
+<strong>What are the analytical tools I use in my projects?</strong> 🛠
 
 * **Data Collect and Storage:** SQL, SQLite, MySQL, Postgres, MongoDB.
 
