@@ -45,14 +45,23 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
   - **Google Cloud Platform (GCP)**: (Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
 
 * **Data Visualization:** Metabase, Power BI, Streamlit.
+
 <br>
+<strong>AWS Certifications:</strong>
+
+[![Linkedin Badge](aws-certified-machine-learning-specialty.png)](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url)
+
+[![Medium Badge](aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url)
+
+<br>
+
 <strong>Links:</strong>
 
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ds-gustavo-cunha/)
 
-* [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ds-gustavo-cunha)
+[![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@ds-gustavo-cunha)
 
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gcunhaj@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gcunhaj@gmail.com)
 
 <br>
 
