@@ -12,10 +12,11 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 </p>
 
 # Gustavo Cunha
-<sub>*Data Scientist at [A3Data](https://www.linkedin.com/company/a3-data-consultoria/), Data Science teacher at [Le Wagon](https://www.lewagon.com/), Ex-Brazilian Navy officer*</sub>
+<sub>*Data scientist at [A3Data](https://www.linkedin.com/company/a3-data-consultoria/), Data science teacher at [Le Wagon](https://www.lewagon.com/), [AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url), [AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url), freelance data scientist and Ex-Brazilian Navy officer*</sub>
 <br>
 <br>
 <br>
+
 <strong>Who am I?</strong> 😬
 
 * I am a **self-disciplined**, **resilient**, and **ethical** person.
@@ -41,7 +42,7 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 * **Machine Learning Deployment:** Heroku, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
 
 * **Cloud Computing**: 
-  - **Amazon Web Services (AWS)**: (EC2, RDS, Lambda, DynamoDB, S3); 
+  - **Amazon Web Services (AWS)**: (EC2, RDS, Lambda, DynamoDB, S3, Sagemaker); 
   - **Google Cloud Platform (GCP)**: (Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
 
 * **Data Visualization:** Metabase, Power BI, Streamlit.
@@ -99,6 +100,9 @@ After reading many books, attending many courses and doing a bunch of data scien
 <br>
 
 ## Medium Posts:
+
+### [Six lessons I learnt during the last six months of data scientist experience](https://medium.com/@ds-gustavo-cunha/six-lessons-i-learnt-during-the-last-six-months-of-data-scientist-experience-b3943f1d46c6)
+Sharing learnings throughout the last six months of data scientist experience.
 
 ### [Applying the Lean Startup mindset to data science projects](https://medium.com/@ds-gustavo-cunha/applying-the-lean-startup-mindset-to-data-science-projects-fdcd3ce44d10)
 Applying some core concepts of “The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses” by Eric Ries to make data science projects more effective.
