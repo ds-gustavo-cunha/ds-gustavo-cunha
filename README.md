@@ -29,23 +29,23 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 <br>
 <strong>What are the analytical tools I use in my projects?</strong> 🛠
 
-* **Data Collect and Storage:** SQL, Postgres, MySQL, SQLite, ElasticSearch, MongoDB.
+* **Data Collect and Storage**: SQL, Postgres, MySQL, SQLite, ElasticSearch, MongoDB.
 
-* **Data Processing and Analysis:** Python, Spark, Statistics.
+* **Coding**: Python, Spark.
 
-* **Development:** Git, Github, Gitlab, Linux, Continuous Integration.
+* **Statistics**: Cohort Analysis, Descriptive Statistics, Inferential Statistics, Causal Inference, Survival Analysis. 
 
-* **Machine Learning and Deep Learning Modeling:** Classification, Regression, Clustering, NLP (Sentiment Analysis & Text Summarization).
+* **Development**: Git, Github, Gitlab, Linux, Continuous Integration.
 
-* **APIs:** Flask, FastAPI.
+* **Machine Learning and Deep Learning**: Classification, Regression, Clustering, NLP.
 
-* **Machine Learning Deployment:** Heroku, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
+* **APIs**: Flask, FastAPI.
 
-* **Cloud Computing**: 
-  - **Amazon Web Services (AWS)**: (EC2, RDS, Lambda, DynamoDB, S3, Sagemaker); 
-  - **Google Cloud Platform (GCP)**: (Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
+* **Machine Learning Deployment**: Heroku, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
 
-* **Data Visualization:** Metabase, Power BI, Streamlit.
+* **Cloud Computing**: Amazon Web Services (AWS): (EC2, RDS, Lambda, DynamoDB, S3, Sagemaker); Google Cloud Platform (GCP): (Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
+
+* **Data Visualization**: Metabase, Power BI, Streamlit.
 
 <br>
 <strong>AWS Certifications:</strong>
