@@ -1,7 +1,7 @@
 # **Gustavo Cunha**
 
 
-*I built a **portfolio webpage** where I could display my projects in a more straightforward and personal way. You can check it on this link: [https://ds-gustavo-cunha.github.io/projects-portfolio/]( https://ds-gustavo-cunha.github.io/projects-portfolio/ ). However, you can also check a brief introduction below if you prefer to do so.* 😉
+I built a **portfolio webpage** where I could display my projects in a more straightforward and personal way. You can check it on this link: **[https://ds-gustavo-cunha.github.io/projects-portfolio/]( https://ds-gustavo-cunha.github.io/projects-portfolio/)**. However, you can also check a brief introduction below if you prefer to do so. 😉
 #
 
 
@@ -13,7 +13,9 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 
 # Gustavo Cunha
 
-*Data scientist at [Nubank](https://www.linkedin.com/company/nubank/about/), AI mentor at [Social Good Brasil](https://socialgoodbrasil.org.br/), data science teacher at [Le Wagon](https://www.lewagon.com/), [AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url) and [AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url), consultant and volunteer data scientist, Ex-Brazilian Navy officer*.
+<br>
+
+**Data scientist** at **[Nubank](https://www.linkedin.com/company/nubank/about/)**, **AI mentor** at **[Social Good Brasil](https://socialgoodbrasil.org.br/)**, **AI & data science teacher** at **[Le Wagon](https://www.lewagon.com/)**, **[AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url)** and **[AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url)**, **consultant** and **volunteer data scientist**, **Ex-Brazilian Navy officer**.
 <br>
 <br>
 <br>
