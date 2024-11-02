@@ -12,7 +12,7 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 </p>
 
 # Gustavo Cunha
-<sub>*Data scientist at [Hotmart](https://www.linkedin.com/company/hotmart/), Data science teacher at [Le Wagon](https://www.lewagon.com/), [AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url) and [AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url), freelance and volunteer data scientist, Ex-Brazilian Navy officer*</sub>
+<sub>*Data scientist at [Nubank](https://www.linkedin.com/company/nubank/about/), AI mentor at [Social Good Brasil](https://socialgoodbrasil.org.br/), data science teacher at [Le Wagon](https://www.lewagon.com/), [AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url) and [AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url), consultant and volunteer data scientist, Ex-Brazilian Navy officer*</sub>
 <br>
 <br>
 <br>
@@ -27,25 +27,30 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 
 
 <br>
-<strong>What are the analytical tools I use in my projects?</strong> 🛠
+<strong>What analytical tools and skills do I use in my projects?</strong> 🛠
 
 * **Data Collect and Storage**: SQL, Postgres, MySQL, SQLite, ElasticSearch, MongoDB.
 
 * **Coding**: Python, Spark.
 
-* **Statistics**: Cohort Analysis, Descriptive Statistics, Inferential Statistics, Causal Inference, Survival Analysis. 
+* **Development**: Git, Github, Gitlab, Linux, MacOS, continuous integration, continuous deployment.
 
-* **Development**: Git, Github, Gitlab, Linux, Continuous Integration.
+* **Statistics**: sescriptive statistics, cohort analysis, inferential statistics, causal inference, AB testing, survival analysis.
 
-* **Machine Learning and Deep Learning**: Classification, Regression, Clustering, NLP.
+* **Data Visualization**: matplotlib, seaborn, plotly, Metabase, Power BI, Streamlit.
+
+* **Data Manipulation**: data cleaning, feature engineering, data preparation, dimensionality reduction, addressing class imbalance, feature selection, model tunning.
+
+* **Machine Learning and Deep Learning**: Classification, regression, clustering, NLP, multi-agent systems.
+
+* **Model Analysis**: performance metrics evaluation, model explainability.
 
 * **APIs**: Flask, FastAPI.
 
-* **Machine Learning Deployment**: Heroku, Streamlit Cloud, Docker, Airflow, Google Sheets, Telegram.
+* **Machine Learning Deployment**: Streamlit Cloud, Docker, MLFlow, Airflow, Telegram.
 
-* **Cloud Computing**: Amazon Web Services (AWS): (EC2, RDS, Lambda, DynamoDB, S3, Sagemaker); Google Cloud Platform (GCP): (Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
+* **Cloud Computing**: Amazon Web Services (AWS - EC2, RDS, Lambda, DynamoDB, OpenSearch, S3, Sagemaker); Google Cloud Platform (GCP - Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
 
-* **Data Visualization**: Metabase, Power BI, Streamlit.
 
 <br>
 <strong>AWS Certifications:</strong>
