@@ -1,68 +1,50 @@
 # **Gustavo Cunha**
 
+<strong>Senior Data Scientist | Causal Inference & Experimentation | A/B Testing | [Nubank](https://www.linkedin.com/company/nubank/about/) · [MIT Applied AI and Data Science Program](https://www.mygreatlearning.com/mit-data-science-program) | Machine Learning | Python | SQL | AWS | Former Brazilian Navy officer</strong>
 
-I built a **portfolio webpage** where I could display my projects in a more straightforward and personal way. You can check it on this link: **[https://ds-gustavo-cunha.github.io/projects-portfolio/]( https://ds-gustavo-cunha.github.io/projects-portfolio/)**. However, you can also check a brief introduction below if you prefer to do so. 😉
-#
+---
 
+I help high-scale product teams measure what actually works — not just what correlates.
 
-The main objective of this personal portfolio is to demonstrate my skills in **solving Data Science business challenges**.
+At Nubank (100M+ customers), I design and analyze experiments (A/B tests and quasi-experiments) and causal ML models that directly shape product strategy and revenue. Most recently, I built a methodology that compressed the model development lifecycle from 6 months to 4 weeks — an 80% reduction deployed across millions of users.
 
-<p align='center'>
-  <img src="icon.svg" alt="drawing" width="200"/>  
-</p>
+I also mentor in the MIT Applied AI & Data Science Program (4.8/5.0 rating, NPS 80), where I help senior professionals translate advanced analytics into business impact.
 
-# Gustavo Cunha
+Former Brazilian Navy Officer — I bring operational discipline and leadership under ambiguity to production ML systems.
 
-<br>
+---
 
-**Data scientist** at **[Nubank](https://www.linkedin.com/company/nubank/about/)**, **AI mentor** at **[Social Good Brasil](https://socialgoodbrasil.org.br/)**, **AI & data science teacher** at **[Le Wagon](https://www.lewagon.com/)**, **[AWS certified machine learning specialist](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url)** and **[AWS certified cloud practitioner](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url)**, **consultant** and **volunteer data scientist**, **Ex-Brazilian Navy officer**.
-<br>
-<br>
-<br>
+<strong>EXPERTISE</strong>:
+* **Causal Inference & Experimentation** — A/B testing, experiment design, hypothesis testing, quasi-experiments (Difference-in-Differences, Synthetic Control, Instrumental Variables), and causal machine learning (CATE / heterogeneous treatment effects) for product and revenue decisions at fintech scale.
+* **Machine Learning & Deep Learning** — survival analysis, time series forecasting, regression, classification, clustering, NLP, LLMs, and agentic AI systems, from design through production.
+* **MLOps & Deployment** — end-to-end pipelines on Databricks/AWS using Python, SQL, PySpark, MLflow, Docker, and FastAPI.
 
-<strong>Who am I?</strong> 😬
+---
 
-* I am a **self-disciplined**, **resilient**, and **ethical** person.
+<strong>IMPACT</strong>:
+* **Reduced ML development lifecycle by 80% (6 months → 4 weeks) at Nubank**.
+* **Generated $100k+ monthly savings via production ML system (Hotmart)**.
+* **Drove $1M+ annual impact through fraud detection and churn optimization**.
 
-* I have a **military background** and a very curious and active mind.
+---
 
-* Some time ago, I fell in love with data science and, since then, I've been focusing my energy and time on projects to **solve business challenges** using **data science concepts** and **tools**.
+<strong>CURRENT WORK</strong>
 
+**Nubank (2024–present) — confidential**
+* Engineered a machine learning methodology that accelerated the model development lifecycle from 6 months to 4 weeks (–80%) with no degradation in model performance, enabling rapid experimentation and deployment across millions of users.
+* Designed and executed A/B tests and quasi-experiments (DiD, Synthetic Control, Instrumental Variables) to measure causal impact of product interventions across millions of users.
+* Built CATE models using causal ML (survival analysis meta-learners) to personalize treatment interventions for churn reduction, directly influencing product prioritization and revenue-driving decisions.
+* Automated model input monitoring pipelines, improving production ML reliability and reducing model degradation risk at scale
 
-<br>
-<strong>What analytical tools and skills do I use in my projects?</strong> 🛠
+---
 
-* **Data Collect and Storage**: SQL, Postgres, MySQL, SQLite, ElasticSearch, MongoDB.
-
-* **Coding**: Python, Spark.
-
-* **Development**: Git, Github, Gitlab, Linux, MacOS, continuous integration, continuous deployment.
-
-* **Statistics**: sescriptive statistics, cohort analysis, inferential statistics, causal inference, AB testing, survival analysis.
-
-* **Data Visualization**: matplotlib, seaborn, plotly, Metabase, Power BI, Streamlit.
-
-* **Data Manipulation**: data cleaning, feature engineering, data preparation, dimensionality reduction, addressing class imbalance, feature selection, model tunning.
-
-* **Machine Learning and Deep Learning**: Classification, regression, clustering, NLP, multi-agent systems.
-
-* **Model Analysis**: performance metrics evaluation, model explainability.
-
-* **APIs**: Flask, FastAPI.
-
-* **Machine Learning Deployment**: Streamlit Cloud, Docker, MLFlow, Airflow, Telegram.
-
-* **Cloud Computing**: Amazon Web Services (AWS - EC2, RDS, Lambda, DynamoDB, OpenSearch, S3, Sagemaker); Google Cloud Platform (GCP - Cloud Storage, Compute Engine, Container Registry, Cloud Run, AI Platform).
-
-
-<br>
 <strong>AWS Certifications:</strong>
 
 [![Linkedin Badge](aws-certified-machine-learning-specialty.png)](https://www.credly.com/badges/34baac5b-2344-4a43-b12d-33555d096406/public_url)
 
 [![Medium Badge](aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6f274a45-e7b0-4952-a4f9-029de6e02135/public_url)
 
-<br>
+---
 
 <strong>Links:</strong>
 
@@ -72,42 +54,21 @@ The main objective of this personal portfolio is to demonstrate my skills in **s
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gcunhaj@gmail.com)
 
-<br>
 
-## Data Science Projects:
+---
 
-### [Bottomline]( https://github.com/ds-gustavo-cunha/Bottomline-Project )
-We all live in a society that produces an overwhelming amount of information daily. Information per se is valuable but it's often very challenging to spotlight the essential part of it - the bottomline, so to say. This mental-filtering process can be very time-consuming and also confusing sometimes. With our technical solution, we provide an automated service that identifies the text's most relevant sentences to summarize the text. Additionally, the service provides the general sentiment (positive, neutral or negative) of the text. In other words, the final product will give the user a general idea about the text content as well as its most prominent sentiment.
+I also created a **professional timeline** where I share all my professional history  in a more straightforward and personal way. You can check it on this link: **[https://ds-gustavo-cunha.github.io/projects-portfolio/#professional-timeline](https://ds-gustavo-cunha.github.io/projects-portfolio/#professional-timeline)**.
 
-### [Fraud Detection]( https://github.com/ds-gustavo-cunha/Fraud-Detection/tree/master/fraud_detection )
-Blocker Fraud Company is a company specialized in the detection of fraud in financial transactions made through mobile devices. The company is expanding in Brazil and, to find new customers more quickly, it has adopted a very aggressive strategy. The strategy works as follows: (1) the company will receive 25% of each transaction value that was correctly detected as fraud; (2) The company will receive 5% of each transaction value that was detected as a fraud despite being legitimate; (3) The company will return 100% of each transaction value that was detected as legitimate despite being a fraud. The final solution includes a Power BI reporting dashboard with answers to business questions as well as a Docker container with API implementation, made with FasAPI and PySpark, and a MongoDB database with APIs requests saved for future analyses.
+---
 
-### [Insiders Project]( https://github.com/ds-gustavo-cunha/Insiders-Project/tree/master/Insiders_Clustering )
-The All in One Place company is a multi-brand outlet company that sells second-line products of several brands at a lower price through e-commerce. Within just one year of operation, the marketing team realized that some customers buy more expensive products with high frequency and contribute to a significant portion of the company's revenue. This project aims to determine who are the customers eligible to participate in the Insiders program. Once this list is ready, the Marketing team will carry out a sequence of personalized and exclusive actions to this group of people to increase their sales and purchase frequency. The final solution answers business questions, validates business hypotheses, creates a reporting dashboard and implements a solution architecture in the AWS cloud.
+## Udemy Courses:
 
-### [Rossmann Store Sales]( https://github.com/ds-gustavo-cunha/Rossmann-Store-Sales/tree/master/rossmann_store_sales )
-Rossmann is a company that operates over 3,000 drug stores in 7 European countries. Its products range includes up to 21,700 items and can vary depending on the size of the shop and the location. Rossmann store managers need daily sales predictions for up to six weeks in advance to plan infrastructure investments in their stores (will the next six weeks' sales be high enough to balance infrastructure investment?). The final solution for this problem is a Telegram bot where the user just needs to type the number of the store and the bot will quickly answer the sales prediction for this given store in the next six weeks. Besides, if the final user wants more detailed information about this six weeks prediction, he (she) could get further details on a data App, with an interactive chart, on sales prediction over these six weeks. Furthermore, on this data App, the user can also read the entire project overview to understand further how this prediction is made.
+### [AI Demystified: Critical Thinking Beyond the Hype](https://www.udemy.com/course/ai-demystified-critical-thinking-beyond-the-hype/)
+100% Free and in english course simplifying AI so that anyone — technical or not — can build a real intuition for what's happening behind the scenes, replacing "scary" jargon with common-sense logic.
 
-### [Health Insurance Cross-Sell]( https://github.com/ds-gustavo-cunha/Health-Insurance-Cross-Sell/tree/master/health_insurance_cross_sell )
-Insurance All is a health insurance company and its products team is analyzing the possibility of offering a new product, automobile insurance, for its health insurance clients. Similar to its health insurance, customers of this new insurance plan would have to pay an annual plan to be insured by Insurance All in case of an eventual car accident or damage. In this project, I developed a Machine Learning algorithm that increases the number of contacted interested customers by 1,316 and 2,259 for 20,000 and 40,000 sales teams contacts so that the estimated revenue increases are respectively U$ 131,600 and U$ 225,900.
+---
 
-<br>
-
-## Data Engineering Projects:
-
-### [Synthetic Data Ingestion]( https://github.com/ds-gustavo-cunha/Synthetic-Data-Ingestion )
-The idea is to create synthetic data regarding customer behaviour for two groups of customers: control and treatment. We would generate this behaviour with statistical distributions (e.g. Poisson and Gamma distributions) and would ingest both the created customer behaviour and the statistical distribution params in the architecture. The data would flow throughout the architecture, e.g. data ingestion layer, a bronze layer, a silver layer, etc. As the output, we would have the data regarding the customer behaviour and its statistical distribution blueprint. Then, we could use A/B testing tools to check if there is a statistically significant difference between the control and the treatment groups. However, once we know the original distribution of both groups, we know if they are different or not, so we will be able to check if the A/B tests would give us the correct result of not (especially regarding type I and type II errors).
-
-<br>
-
-## Problem Solving Mindset:
-
-### [Problem Solving Checkpoints]( https://ds-gustavo-cunha.github.io/Problem-Solving-Checkpoints/ )
-After reading many books, attending many courses and doing a bunch of data science projects, I felt the need to define how I should move from real-world problems to real-world solutions in a structured way. So, the purpose of this brief material is to share my initial summary of how to structure a problem-solving strategy. I emphasize that it is just my initial MVP about this subject. In other words, it is not supposed to be a definitive solution, not even to replace any already tested framework! I'm sharing this compilation so anyone interested in this topic can learn or remember something relevant to solve some real problem: if this happens somehow, I would be delighted!
-
-<br>
-
-## Medium Posts:
+## Early Medium Posts (2022):
 
 ### [Six lessons I learnt during the last six months of data scientist experience](https://medium.com/@ds-gustavo-cunha/six-lessons-i-learnt-during-the-last-six-months-of-data-scientist-experience-b3943f1d46c6)
 Sharing learnings throughout the last six months of data scientist experience.
@@ -117,3 +78,30 @@ Applying some core concepts of “The Lean Startup: How Today’s Entrepreneurs 
 
 ### [Visual intelligence techniques applied on data science projects](https://medium.com/@ds-gustavo-cunha/visual-intelligence-techniques-applied-on-data-science-projects-2ed1423a1161)
 Applying techniques of “Visual Intelligence: Sharpen Your Perception, Change our Life” by Amy E. Herman on Data Science Projects.
+
+---
+
+## Early portfolio projects (2021–2022):
+
+### [Bottomline]( https://github.com/ds-gustavo-cunha/Bottomline-Project )
+NLP project to summarize and give sentiment analysis for texts, with deep learning.
+
+### [Fraud Detection]( https://github.com/ds-gustavo-cunha/Fraud-Detection/tree/master/fraud_detection )
+ML project to detect fraud in mobile transactions.
+
+### [Insiders Project]( https://github.com/ds-gustavo-cunha/Insiders-Project/tree/master/Insiders_Clustering )
+ML project to determine who are the customers eligible to participate in a premium program eligibility.
+
+### [Rossmann Store Sales]( https://github.com/ds-gustavo-cunha/Rossmann-Store-Sales/tree/master/rossmann_store_sales )
+ML project to predict sales for the next six weeks for different stores
+
+### [Health Insurance Cross-Sell]( https://github.com/ds-gustavo-cunha/Health-Insurance-Cross-Sell/tree/master/health_insurance_cross_sell )
+ML project to predicts if a client would be (or would not be) interested in the automobile insurance product.
+
+### [Synthetic Data Ingestion]( https://github.com/ds-gustavo-cunha/Synthetic-Data-Ingestion )
+Data engineering project for ETL in AWS.
+
+### [Problem Solving Checkpoints]( https://ds-gustavo-cunha.github.io/Problem-Solving-Checkpoints/ )
+Summary of analytical questions useful for real projects.
+
+<br>
